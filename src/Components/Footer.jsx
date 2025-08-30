@@ -67,8 +67,7 @@ const Footer = () => {
                 </div>
             </div>
             <hr className='border-gray-300 mt-8' />
-            <div className='flex flex-col md:flex-row gap-2 items-center justify-between py-5'>
-                <p>© {new Date().getFullYear()} <a href="https://prebuiltui.com">Chirag Sharma</a>. All rights reserved.</p>
+            <div className='flex flex-col md:flex-row gap-2 items-center justify-between py-5'>Binitabogati331@gmail.com </a>. All rights reserved.</p>
                 <ul className='flex items-center gap-4'>
                     <li><a href="#">Privacy</a></li>
                     <li><a href="#">Terms</a></li>
